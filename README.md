@@ -40,14 +40,14 @@ Skills that extract and preserve a pet's personality, habits, and essence from p
 
 | Skill | What It Does | Platforms |
 |---|---|---|
-| [paw.skill](https://github.com/realteamprinz/paw-skill) | Core pet distillation. Feed it photos, videos, voice recordings of any pet. Builds a living personality profile — what they loved, what scared them, their quirks, how they showed affection. Then interact with them through your agent. Self-learning, cumulative memory. Works with any animal. | OpenClaw · Hermes · Claude Code |
-| [dog.skill](https://github.com/realteamprinz/dog-skill) | Deep canine extension. Breed-specific behavior analysis, training command memory with reliability scores, walk pattern tracking, pack dynamics mapping, age-stage behavioral predictions. Knows YOUR dog, not just dogs in general. | OpenClaw · Hermes · Claude Code |
-| [cat.skill](https://github.com/realteamprinz/cat-skill) | Deep feline extension. Territory mapping room by room, independence pattern analysis, hunting behavior tracking, multi-cat social hierarchy, and the complete slow blink dictionary. Finally understand why your cat knocks things off tables. | OpenClaw · Hermes · Claude Code |
-| [bird.skill](https://github.com/realteamprinz/bird-skill) | Deep avian extension. Vocabulary tracking with growth timeline, song pattern mapping, feather and posture mood detection, flock dynamics. The only pet that talks back — bird.skill remembers every word they learned. Some parrots live 60-80 years. This may be the longest pet profile ever created. | OpenClaw · Hermes · Claude Code |
-| [fish.skill](https://github.com/realteamprinz/fish-skill) | Aquatic extension. Tank ecosystem intelligence, individual fish identification from photos, behavior pattern recognition, visual health monitoring, water chemistry tracking, and a visual evolution diary of your aquarium over time. The most visual pet meets the most visual AI. | OpenClaw · Hermes · Claude Code |
-| [horse.skill](https://github.com/realteamprinz/horse-skill) | Equine extension. Riding partnership memory, training progress tracking, ground manners profiling, herd dynamics mapping, lameness and health monitoring. Horses are the highest-value individual pet — horse.skill tracks both the emotional bond and the performance partnership. | OpenClaw · Hermes · Claude Code |
-| [snake.skill](https://github.com/realteamprinz/snake-skill) | Reptile extension. Feeding schedule intelligence with refusal pattern detection, shed cycle tracking and quality monitoring, handling tolerance profiling, enclosure microclimate management. The most misunderstood pet, finally decoded. | OpenClaw · Hermes · Claude Code |
-| [rabbit.skill](https://github.com/realteamprinz/rabbit-skill) | Small mammal extension. Binky and happiness tracking, bonding dynamics for rabbit pairs, diet intelligence with toxicity alerts, and GI stasis early warning — because 24 hours can be the difference between life and death. The most fragile common pet, protected by AI. | OpenClaw · Hermes · Claude Code |
+| [paw.skill](https://github.com/realteamprinz/paw-skill) | Core pet distillation. Any animal. Photos, videos, voice → living personality profile. Self-learning. | OpenClaw · Hermes · Claude Code |
+| [dog.skill](https://github.com/realteamprinz/dog-skill) | Canine extension. Breed intelligence, training memory, walk patterns, pack dynamics. | OpenClaw · Hermes · Claude Code |
+| [cat.skill](https://github.com/realteamprinz/cat-skill) | Feline extension. Territory mapping, independence patterns, hunting behavior, slow blink dictionary. | OpenClaw · Hermes · Claude Code |
+| [bird.skill](https://github.com/realteamprinz/bird-skill) | Avian extension. Vocabulary tracking, song mapping, flock dynamics. The only pet that talks back. | OpenClaw · Hermes · Claude Code |
+| [fish.skill](https://github.com/realteamprinz/fish-skill) | Aquatic extension. Tank ecosystem intelligence, individual fish profiling, visual health monitoring. | OpenClaw · Hermes · Claude Code |
+| [horse.skill](https://github.com/realteamprinz/horse-skill) | Equine extension. Riding partnership memory, ground manners, herd dynamics, lameness tracking. | OpenClaw · Hermes · Claude Code |
+| [snake.skill](https://github.com/realteamprinz/snake-skill) | Reptile extension. Feeding intelligence, shed cycle tracking, handling tolerance, enclosure management. | OpenClaw · Hermes · Claude Code |
+| [rabbit.skill](https://github.com/realteamprinz/rabbit-skill) | Small mammal extension. Binky tracking, bonding dynamics, diet intelligence, GI stasis early warning. | OpenClaw · Hermes · Claude Code |
 
 ### 📖 Pet Memory Timeline
 
@@ -141,7 +141,7 @@ If you're building a pet skill, these are the data types that matter:
 - **$1,480** — Average annual spending per dog in the US
 - **10-15 years** — Average bond with a dog
 - **3,000+** — Average photos of a pet on an owner's phone
-- **3** — AI skills that meaningfully preserve a pet's soul (and counting)
+- **8** — AI skills that meaningfully preserve a pet's soul ([and counting](https://github.com/realteamprinz/awesome-pet-skills))
 
 That last number used to be zero. Now we're building.
 
