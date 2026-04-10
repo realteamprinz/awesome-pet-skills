@@ -40,9 +40,9 @@ Skills that extract and preserve a pet's personality, habits, and essence from p
 
 | Skill | What It Does | Platforms |
 |---|---|---|
-| *Be the first to build this* | Feed it photos, videos, and your messages about your pet. It distills their personality: what they loved, what scared them, their daily routines, their quirks, how they showed affection. A living portrait that's more than a photo album. | — |
-
-> This is the most important category. Nobody has built it yet. If you're a developer who has lost a pet, you know why this matters.
+| [paw.skill](https://github.com/realteamprinz/paw-skill) | Core pet distillation. Feed it photos, videos, voice recordings of any pet. Builds a living personality profile — then lets you interact with them again. Self-learning, cumulative memory. Works with any animal. | OpenClaw · Hermes · Claude Code |
+| [dog.skill](https://github.com/realteamprinz/dog-skill) | Deep canine extension. Breed intelligence, training command memory, walk patterns, pack dynamics. Built on paw.skill. | OpenClaw · Hermes · Claude Code |
+| [cat.skill](https://github.com/realteamprinz/cat-skill) | Deep feline extension. Territory mapping, independence patterns, hunting behavior, multi-cat dynamics, the slow blink dictionary. Built on paw.skill. | OpenClaw · Hermes · Claude Code |
 
 ### 📖 Pet Memory Timeline
 
@@ -136,9 +136,9 @@ If you're building a pet skill, these are the data types that matter:
 - **$1,480** — Average annual spending per dog in the US
 - **10-15 years** — Average bond with a dog
 - **3,000+** — Average photos of a pet on an owner's phone
-- **0** — AI skills that meaningfully preserve a pet's soul
+- **3** — AI skills that meaningfully preserve a pet's soul (and counting)
 
-That last number is why this list exists.
+That last number used to be zero. Now we're building.
 
 ---
 
