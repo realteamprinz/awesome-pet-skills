@@ -14,6 +14,32 @@ They can't stay forever. But what they meant to you can.
 
 </div>
 
+<div align="center">
+<table>
+<tr>
+<td align="center"><img src="https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=300&h=200&fit=crop" width="200" alt="Happy golden retriever" /><br/><sub>🐕 dog.skill</sub></td>
+<td align="center"><img src="https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?w=300&h=200&fit=crop" width="200" alt="Orange cat looking up" /><br/><sub>🐈 cat.skill</sub></td>
+<td align="center"><img src="https://images.unsplash.com/photo-1552728089-57bdde30beb3?w=300&h=200&fit=crop" width="200" alt="Colorful parrot" /><br/><sub>🦜 bird.skill</sub></td>
+<td align="center"><img src="https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=300&h=200&fit=crop" width="200" alt="Clownfish in aquarium" /><br/><sub>🐟 fish.skill</sub></td>
+</tr>
+<tr>
+<td align="center"><img src="https://images.unsplash.com/photo-1553284965-83fd3e82fa5a?w=300&h=200&fit=crop" width="200" alt="Horse in field" /><br/><sub>🐴 horse.skill</sub></td>
+<td align="center"><img src="https://images.unsplash.com/photo-1531386151447-fd76ad50012f?w=300&h=200&fit=crop" width="200" alt="Snake close up" /><br/><sub>🐍 snake.skill</sub></td>
+<td align="center"><img src="https://images.unsplash.com/photo-1585110396000-c9ffd4e4b308?w=300&h=200&fit=crop" width="200" alt="Cute rabbit" /><br/><sub>🐰 rabbit.skill</sub></td>
+<td align="center"><img src="https://images.unsplash.com/photo-1415369629372-26f2fe60c467?w=300&h=200&fit=crop" width="200" alt="Dog paw on human hand" /><br/><sub>🐾 paw.skill</sub></td>
+</tr>
+</table>
+
+*Every photo above is someone's best friend. paw.skill makes sure they're never forgotten.*
+
+</div>
+
+---
+
+> **"I typed 'it's thundering outside' and it replied: 'curled up at your feet, ears flat, body shaking, but tail still gently touching your leg.' I lost it. Because that's exactly what he did. Every time."**
+>
+> — A paw.skill user, about their dog who passed 3 years ago
+
 ---
 
 ## Why This List Exists
